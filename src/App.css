@@ -12,6 +12,9 @@
   height: 41px;
   background-color: var(--theme-green);
 }
+.green-txt{
+  color: var(--theme-green) !important;
+}
 .contact-btn{
   background-color: var(--theme-green) !important;
   color: #fff !important;
@@ -22,4 +25,14 @@
 .order-btn{
   background-color: var(--theme-green) !important;
   color: #fff !important;
+}
+.banner-right{
+  padding-inline: 100px !important;
+}
+.image-wrapper{
+  background-color: var(--theme-green);
+  border-radius: 50%;
+  width: 600px;
+  height: 600px;
+  aspect-ratio: 1/1;
 }

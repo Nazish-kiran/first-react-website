@@ -1,11 +1,13 @@
 import './App.css';
 import  Mynavbar  from './components/Navbar';
-import Banner1 from './components/Banner1'; 
+import  Banner2  from './components/Banner2';
+import  ProductCategories  from './components/ProductCategories';
 function App() {
   return (
    <>
    <Mynavbar/>
-   <Banner1/>
+  <Banner2/>
+  <ProductCategories/>
    </>
   );
 }
