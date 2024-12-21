@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/first-react-website/static/css/main.7d004329.css",
+    "main.js": "/first-react-website/static/js/main.e398ef65.js",
+    "static/js/488.9c92ff38.chunk.js": "/first-react-website/static/js/488.9c92ff38.chunk.js",
+    "static/media/Intersect.png": "/first-react-website/static/media/Intersect.b91f29a80eae3685b23d.png",
+    "index.html": "/first-react-website/index.html",
+    "main.7d004329.css.map": "/first-react-website/static/css/main.7d004329.css.map",
+    "main.e398ef65.js.map": "/first-react-website/static/js/main.e398ef65.js.map",
+    "488.9c92ff38.chunk.js.map": "/first-react-website/static/js/488.9c92ff38.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7d004329.css",
+    "static/js/main.e398ef65.js"
+  ]
+}
