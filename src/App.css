@@ -6,11 +6,15 @@
 
 :root {
     --theme-green:#39DB4A;
+    --theme-blue:#C1F1C6;
 }
 .green{
   width: 34px;
   height: 41px;
   background-color: var(--theme-green);
+}
+body{
+  background-color: #fafafa !important;
 }
 .green-txt{
   color: var(--theme-green) !important;
@@ -35,4 +39,16 @@
   width: 600px;
   height: 600px;
   aspect-ratio: 1/1;
+}
+.product-category-figure-wrapper{
+background-color: var(--theme-blue);
+width: 130px;
+height: 130px;
+}
+.product-category-card{
+  background-color: #fff;
+  padding-inline: 70px !important;
+  padding-top: 40px !important;
+  padding-bottom: 30px !important;
+  border-radius: 40px;
 }
