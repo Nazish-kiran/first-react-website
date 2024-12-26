@@ -30,7 +30,7 @@ const ProductCategories = () => {
 
     return (
         <>
-            <div className="product-category-section text-center">
+            <div className="product-category-section text-center pt-5">
                 <div className="product-category-top">
                     <div className="product-category-subtitle">
                         <h6>Customer Favorites</h6>
